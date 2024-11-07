@@ -12,6 +12,7 @@ https://github.com/Aditya7636/Gen-AI-Project-Using-Llama3.1-/blob/23e8a0d782d199
 
 ## Architecture Diagram
 
+![img.png](imgs/architecture.png)
 
 ## Set-up
 1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside `app/.env` update the value of `GROQ_API_KEY` with the API_KEY you created. 
