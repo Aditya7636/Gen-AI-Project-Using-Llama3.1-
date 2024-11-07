@@ -6,11 +6,11 @@ Cold email generator for services company using groq, langchain and streamlit. I
 - Nike needs a Principal Software Engineer and is spending time and resources in the hiring process, on boarding, training etc
 - Atliq is Software Development company can provide a dedicated software development engineer to Nike. So, the business development executive (Mohan) from Atliq is going to reach out to Nike via a cold email.
 
-https://github.com/codebasics/project-genai-cold-email-generator/blob/main/imgs/img.png![image](https://github.com/user-attachments/assets/257f2658-f8b7-49b2-94cf-87ffa02cf71a)
+
 
 
 ## Architecture Diagram
-architecture.png
+
 
 ## Set-up
 1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside `app/.env` update the value of `GROQ_API_KEY` with the API_KEY you created. 
