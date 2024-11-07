@@ -10,7 +10,7 @@ https://github.com/codebasics/project-genai-cold-email-generator/blob/main/imgs/
 
 
 ## Architecture Diagram
-![img.png](imgs/architecture.png)
+architecture.png
 
 ## Set-up
 1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside `app/.env` update the value of `GROQ_API_KEY` with the API_KEY you created. 
